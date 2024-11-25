@@ -1,0 +1,6 @@
+# Node.js modülleri
+node_modules/
+
+# Next.js tarafından üretilen build dosyaları
+.next/
+out/
